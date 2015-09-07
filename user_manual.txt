@@ -1,0 +1,26 @@
+
+		
+		****TO START****
+
+	1- Click on setting icon 
+
+					STEP 2
+	Click on "View" menu and Change company information
+
+					STEP 3
+	Still in setting, go ahead and click on create menu
+	then enter menu name and price. Ater you click submit, and new menu will be added to your menu list. To create more menu, you can repeat this process.
+
+					STEP 4 
+	Go ahead and Click on your menu icon on the top-left, just bellow the address bar, and the menu you added to your list will be display. 
+
+					STEP 5
+	To select a menu in your menu list, just make single click and that menu will be automatically added to your list of purchase. Repeat this process to add as many item as you want and when you are done, just click the tax button right at the bottom to complete the computation. 
+
+					BE ADVISE
+	You may wish to delete a menu to you added to your list of purchase (note that the computaion is automatic and has be already executed). In order to delete an item that was added by mistake or an item you no longer want to buy, just select that item on your screen by a simple click, then click the delete button to remove it from your list. 
+	Also, if you have started adding item to your list and want to cancel or void the whole transaction, then go ahead and click the "CLEAR ALL" button to get rid of everything that was added to your list. 
+
+	For more information about how to use this register, know more functionality, make a suggestion to help us improve this service, your may contact our customer service center at 1-(646)393-6260.
+
+	Copywrite MariAlex 2015. Version 1.0 New York City.
